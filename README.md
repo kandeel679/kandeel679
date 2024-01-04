@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandeel679&label=Profile%20views&color=35c922&style=plastic" alt="kandeel679" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandeel679" alt="kandeel679" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures ,Machine Learning and Deep Learning with python**
