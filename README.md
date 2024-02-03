@@ -2,13 +2,16 @@
 <h3 align="center">A passionate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandeel679&label=Profile%20views&color=35c922&style=plastic" alt="kandeel679" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandeel679" alt="kandeel679" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures ,Machine Learning and Deep Learning with python**
 
+- 👨‍💻 All of my projects are available at [https://kandeel679.github.io/portfolio/#projects](https://kandeel679.github.io/portfolio/#projects)
+
 - 📫 How to reach me **youssifk000@gmail.com**
 
-- ⚡ Fun fact **I'm a vscode fanboy**
+- ⚡ Fun fact **Vscode fan boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandeel679&show_icons=true&theme=dark&locale=en&layout=compact" alt="kandeel679" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandeel679&show_icons=true&locale=en" alt="kandeel679" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandeel679&show_icons=true&theme=dark&locale=en" alt="kandeel679" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kandeel679&theme=dark" alt="kandeel679" /></p>
