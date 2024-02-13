@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures ,Machine Learning and Deep Learning with python**
 
-- 👨‍💻 All of my projects are available at [https://kandeel679.github.io/portfolio/#projects](https://kandeel679.github.io/portfolio/#projects)
+- 👨‍💻 All of my projects are available at [https://kandeel679.github.io/portfolio/#projects](https://kandeel679.github.io/portfolio)
 
 - 📫 How to reach me **youssifk000@gmail.com**
 
