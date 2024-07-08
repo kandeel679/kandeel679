@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandeel679" alt="kandeel679" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures ,Machine Learning and Deep Learning with python**
+- 🌱 I’m currently learning **Penetration Testing (Ethical Hacking)**
 
 - 👨‍💻 All of my projects are available at [https://kandeel679.github.io/portfolio/#projects](https://kandeel679.github.io/portfolio)
 
