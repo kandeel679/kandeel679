@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kandeel679.github.io/portfolio/#projects](https://kandeel679.github.io/portfolio)
 
-- 📫 How to reach me **youssifk000@gmail.com**
+- 📫 How to reach me **youssefkandeel16@gmail.com**
 
 - ⚡ Fun fact **Vscode fanboy**
 
