@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **youssifk000@gmail.com**
 
-- ⚡ Fun fact **Vscode fan boy**
+- ⚡ Fun fact **Vscode fanboy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
